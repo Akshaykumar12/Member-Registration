@@ -1,0 +1,8 @@
+C:\Users\Surface\source\repos\demo\DAL\bin\DAL.dll.config
+C:\Users\Surface\source\repos\demo\DAL\bin\DAL.dll
+C:\Users\Surface\source\repos\demo\DAL\bin\DAL.pdb
+C:\Users\Surface\source\repos\demo\DAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Surface\source\repos\demo\DAL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Surface\source\repos\demo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Surface\source\repos\demo\DAL\obj\Debug\DAL.dll
+C:\Users\Surface\source\repos\demo\DAL\obj\Debug\DAL.pdb
