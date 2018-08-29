@@ -1,5 +1,5 @@
 # Member-Registration
-This is sample project for 3-tier Architecture in ASP.NET. It follows same structure as my internship project IETM(Company Income Expense Managing and Tracking Purpose) .  It is purely for learning and demonstration purpose.
+This is sample project in 3-tier Architecture using ASP.NET Web forms. It follows same code structure as my project IETM(Company Income Expense Managing and Tracking Purpose) at Samay software.  It is purely for demonstration purpose to prospective employers.
 
 
 # Description
