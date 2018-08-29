@@ -11,12 +11,12 @@ clone the project on your desktop & open using visual. Import the database to yo
 
 ### Prerequisites 
 
-1. Visual Studio
+1. ASP.NET Web Forms
 2. bootstrap
 
 ## Built With
 
-* [ASP.NET](https://www.asp.net/) - The web framework used
+* [ASP.NET Web Forms](https://www.asp.net/) - The web framework used
 * [BootStrap](https://getbootstrap.com/) -The css libarary used
 * [visual Studio](https://www.visualstudio.com/) - Dependency
 
